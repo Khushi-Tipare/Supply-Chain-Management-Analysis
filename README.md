@@ -1,7 +1,6 @@
 #  Supply Chain Analytics Dashboard
 
-!Supply Chain Dashboard](https://github.com/Khushi-Tipare/Supply-Chain-Management-Analysis/blob/main/Supply%20Chain%20Dashboard.png)
-
+![Supply Chain Dashboard](https://raw.githubusercontent.com/Khushi-Tipare/Supply-Chain-Management-Analysis/main/Supply%20Chain%20Dashboard.png)
 
 ##  Project Overview
 
