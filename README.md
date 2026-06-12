@@ -177,11 +177,6 @@ The SQL component of this project includes:
 
 ---
 
-# 📸 Dashboard Preview
-
-![Supply Chain Dashboard](Dashboard Images/Dashboard.png)
-
----
 
 # Project Outcome
 
