@@ -4,8 +4,7 @@
 
 ##  Project Overview
 
-The **Supply Chain Analytics Dashboard** is an interactive Power BI project designed to monitor and analyze key supply chain metrics, including sales, inventory, shipping costs, supplier performance, regional sales, and product performance. The dashboard enables data-driven decision-making by providing valuable business insights through dynamic visualizations and KPIs.
-
+The Supply Chain Analytics Dashboard is an end-to-end data analytics project that provides valuable insights into sales, inventory, supplier performance, shipping costs, and regional distribution. Built using SQL and Power BI, it transforms raw data into interactive visualizations and meaningful business insights. The dashboard helps monitor key performance indicators (KPIs), identify top-performing products and suppliers, analyze monthly sales trends, and optimize logistics operations. By enabling data-driven decision-making, the project supports improved operational efficiency, cost optimization, and strategic business planning.
 ---
 
 #  Project Objectives
