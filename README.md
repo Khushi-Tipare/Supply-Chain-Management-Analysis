@@ -115,6 +115,7 @@ Users can filter the dashboard by:
 ---
 
 #  Dataset Description
+[View Dataset](https://github.com/Khushi-Tipare/Supply-Chain-Management-Analysis/blob/main/Supply_Chain_Dataset.xlsx)
 
 The dataset contains information related to:
 
