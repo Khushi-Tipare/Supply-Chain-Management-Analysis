@@ -1,6 +1,6 @@
 #  Supply Chain Analytics Dashboard
 
-![Supply Chain Dashboard]()
+![Supply Chain Dashboard](Supply Chain Dashboard.png)
 
 
 ##  Project Overview
