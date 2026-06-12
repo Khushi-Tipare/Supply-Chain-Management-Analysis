@@ -135,7 +135,7 @@ The dataset contains information related to:
 ---
 
 #  SQL Analysis
-
+[View SQL Script](https://github.com/Khushi-Tipare/Supply-Chain-Management-Analysis/blob/main/Supply_Chain_Analysis%20SQL.sql)
 The SQL component of this project includes:
 
 - Data Cleaning
